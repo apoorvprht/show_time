@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "show_time"
   spec.version       = ShowTime::VERSION
   spec.authors       = ["Apoorv Purohit"]
-  spec.email         = ["apoorv@gmail.com"]
+  spec.email         = ["apoorv_prht@yahoo.com"]
   spec.summary       = %q{Provides a helper to render a formatted DateTime object.}
   spec.description   = %q{Provides a helper to render a formatted DateTime object.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/apoorvprht/show_time"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
